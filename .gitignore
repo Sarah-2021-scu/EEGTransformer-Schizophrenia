@@ -1,0 +1,17 @@
+# Data and Tensors
+*.npy
+ds004000/
+data/
+
+# Model Checkpoints
+*.pth
+saved_runs/
+
+# Logs and Outputs
+*.log
+*.csv
+*.png
+
+# Python Cache
+__pycache__/
+*.pyc
