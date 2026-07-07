@@ -1,4 +1,4 @@
-# VRAM-Optimized EEGTransformer for Schizophrenia Classification
+# Transformer-Based Modeling of Electroencephalography for Schizophrenia Classification and Risk Score
 
 This repository contains the official PyTorch implementation and preprocessing pipeline for our manuscript submitted to *ARRAY*: **"Transformer-Based Modeling of Electroencephalography for Schizophrenia Classification and Risk Score."**
 
