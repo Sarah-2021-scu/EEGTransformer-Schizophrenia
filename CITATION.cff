@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "EEGTransformer-Schizophrenia"
+authors:
+  - family-names: "Flinn"
+    given-names: "Alexandra"
+    affiliation: "Santa Clara University"
+  - family-names: "Anjum"
+    given-names: "Sarah"
+    affiliation: "Santa Clara University"
+  - family-names: "Akbari"
+    given-names: "Hamed"
+    affiliation: "Santa Clara University"
+repository-code: "https://github.com/Sarah-2021-scu/EEGTransformer-Schizophrenia"
+preferred-citation:
+  type: article
+  title: "Transformer-Based Modeling of Electroencephalography for Schizophrenia Classification and Risk Score"
+  authors:
+    - family-names: "Flinn"
+      given-names: "Alexandra"
+    - family-names: "Anjum"
+      given-names: "Sarah"
+    - family-names: "Akbari"
+      given-names: "Hamed"
+  journal: "Array"
+  year: 2026
+  notes: "Under review"
