@@ -27,3 +27,11 @@ Execute the group-stratified 5-fold cross-validation. This script utilizes PyTor
 
 Bash
 python train.py
+
+## Citation
+
+If you use this code, please cite:
+
+> A. Flinn, S. Anjum, and H. Akbari, "Transformer-Based Modeling of
+> Electroencephalography for Schizophrenia Classification and Risk Score,"
+> Array (under review), 2026.
